@@ -57,8 +57,16 @@ if __name__ == '__main__':
                                 1,                                     #字号
                                 (255,0,255),                           #颜色
                                 2)                                     #字的线宽
-                else:
-                    pass
+                elif faceID==1:
+                     cv2.rectangle(frame, (x - 10, y - 10), (x + w + 10, y + h + 10), color, thickness = 2)
+                    
+                    #文字提示是谁
+                     cv2.putText(frame,'others', 
+                                (x + 30, y + 30),                      #坐标
+                                cv2.FONT_HERSHEY_SIMPLEX,              #字体
+                                1,                                     #字号
+                                (255,0,255),                           #颜色
+                                2)                                     #字的线宽 
                             
         cv2.imshow("11", frame)
         
