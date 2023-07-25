@@ -12,8 +12,12 @@ contact me with :teiyou416@gmail.com
 
 如果有不懂的可以发邮件给我或者直接加我微信cy262904802
 
+请无视1.py和d.py（上传错了/(ㄒoㄒ)/~~）
+
+
 
 システム開発実習の総合課題です
 
 keras と opencv を使ってできたやつ。
 
+1.pyとd.pyを無視してください。
