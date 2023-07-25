@@ -15,6 +15,7 @@ contact me with :teiyou416@gmail.com
 请无视1.py和d.py（上传错了/(ㄒoㄒ)/~~）
 
 
+![屏幕截图 2023-07-26 022347](https://github.com/teiyou416/python/assets/130667154/48fa67b8-2e65-4a19-86a4-ebb9357c48ed)
 
 システム開発実習の総合課題です
 
